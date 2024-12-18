@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  product-service:
+    build:
+      context: ./ProductMService
+    ports:
+      - "5001:80"
+  order-processing-service:
+    build:
+      context: ./OrderMService
+    ports:
+      - "5002:80"

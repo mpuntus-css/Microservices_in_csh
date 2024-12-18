@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8F891-147C-4883-84D6-E221B5F6C975}|Solution Items{A1E8F891-147C-4883-84D6-E221B5F6C975}|C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1E8F891-147C-4883-84D6-E221B5F6C975}|Solution Items{A1E8F891-147C-4883-84D6-E221B5F6C975}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB70A67-D744-4360-AC9F-9D772409894D}|OrderMService\\OrderMService.csproj|c:\\users\\nikmi\\documents\\software class\\unit 7\\microservicespractise_csh\\productmservice\\ordermservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB70A67-D744-4360-AC9F-9D772409894D}|OrderMService\\OrderMService.csproj|solutionrelative:ordermservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C4B1E-9CF7-49DB-A940-B420E35C98AC}|ProductMService\\ProductMService.csproj|c:\\users\\nikmi\\documents\\software class\\unit 7\\microservicespractise_csh\\productmservice\\productmservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C4B1E-9CF7-49DB-A940-B420E35C98AC}|ProductMService\\ProductMService.csproj|solutionrelative:productmservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB70A67-D744-4360-AC9F-9D772409894D}|OrderMService\\OrderMService.csproj|c:\\users\\nikmi\\documents\\software class\\unit 7\\microservicespractise_csh\\productmservice\\ordermservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB70A67-D744-4360-AC9F-9D772409894D}|OrderMService\\OrderMService.csproj|solutionrelative:ordermservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C4B1E-9CF7-49DB-A940-B420E35C98AC}|ProductMService\\ProductMService.csproj|c:\\users\\nikmi\\documents\\software class\\unit 7\\microservicespractise_csh\\productmservice\\productmservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C4B1E-9CF7-49DB-A940-B420E35C98AC}|ProductMService\\ProductMService.csproj|solutionrelative:productmservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C4B1E-9CF7-49DB-A940-B420E35C98AC}|ProductMService\\ProductMService.csproj|c:\\users\\nikmi\\documents\\software class\\unit 7\\microservicespractise_csh\\productmservice\\productmservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{795C4B1E-9CF7-49DB-A940-B420E35C98AC}|ProductMService\\ProductMService.csproj|solutionrelative:productmservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-18T10:01:29.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\OrderMService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderMService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\OrderMService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderMService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:57:57.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\OrderMService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderMService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\OrderMService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderMService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:57:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\ProductMService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductMService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\ProductMService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductMService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:54:03.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\ProductMService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\ProductMService\\Models\\Product.cs",
+              "RelativeToolTip": "ProductMService\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:52:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\ProductMService\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductMService\\Dockerfile",
+              "ToolTip": "C:\\Users\\nikmi\\Documents\\Software Class\\Unit 7\\MicroservicesPractise_csh\\ProductMService\\ProductMService\\Dockerfile",
+              "RelativeToolTip": "ProductMService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-18T09:52:29.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

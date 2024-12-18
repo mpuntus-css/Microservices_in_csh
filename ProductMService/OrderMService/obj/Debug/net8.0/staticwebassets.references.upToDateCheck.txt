@@ -1,0 +1,3 @@
+C:\Users\nikmi\Documents\Software Class\Unit 7\MicroservicesPractise_csh\ProductMService\ProductMService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikmi\Documents\Software Class\Unit 7\MicroservicesPractise_csh\ProductMService\ProductMService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikmi\Documents\Software Class\Unit 7\MicroservicesPractise_csh\ProductMService\ProductMService\obj\Debug\net8.0\staticwebassets.build.json

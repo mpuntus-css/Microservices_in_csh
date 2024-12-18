@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lZDvFHAyDN3TpOlLtOJKGqC4dlrINx6B5sOz+/8IrXg=",
+  "Source": "ProductMService",
+  "BasePath": "_content/ProductMService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
