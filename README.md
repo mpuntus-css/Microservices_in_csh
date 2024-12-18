@@ -1,0 +1,2 @@
+- Added 2 microservices. One for Products and one for Order
+- Microservices run into 2 separate Docker containers
